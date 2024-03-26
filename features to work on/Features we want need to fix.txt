@@ -1,0 +1,18 @@
+Features we want/ need to fix
+
+short goal:
+
+1.) fix centering of login button of register/ login page
+2.) indicate when a photo is uploaded when signing up, and when sending one in a message.
+3.) create a loading screen - Phil wants to do this
+4.) error page
+5.) make login/ register form more centered so when you expand the viewport there isnt as much space on the left.
+6.) fix the messages so that the bubbles are more below the user that it belongs to.
+
+
+Long goal:
+
+1.) forgot password functionality, send email to user to reset -> firebase probably has the ability to do this
+2.) currently you can create a conversation with yourself, lets make it so that is not possible or if a user does this title the convo as notes
+3.) Implement online idicator functionality.
+4.) allow user to change their profile picture in the settings.
